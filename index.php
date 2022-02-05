@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta>
     <title>Anasayfa</title>
     <script src="https://kit.fontawesome.com/c20485228a.js" crossorigin="anonymous"></script>
     <link href="css/style.css" rel="stylesheet">
@@ -30,7 +31,7 @@
         </div>  
         <div id="içerik">
             <h2>Önenler Yazılım</h2>
-            <hr width=300 align=left>
+            <hr width=300 aling=left>
             <p>Bu sitenin amacı sadece test amaçlı olup hiç bir kuruluşa bağımlı değildir önenler yazılım iyi gezmeler diler eğer bir gün tanışma fırsatımız olursa sizi şirketimize davet ederim iyi günler.<br>
                 Bu sitenin kuruluş amacı şirketimizi tanımanız ve benimsemenizdir biz Önenler yazılım olarak bilgileriniz güvenliğinden sorumluyuz bu yüzden bu siteye güvenebilir ve giris yapabilirsiniz ilk yaptımız site olduğu için böyle kötü gözüke bilir ama ilerde daha güzel bir siteyle geleceğiz.
 
