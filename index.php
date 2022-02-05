@@ -198,5 +198,6 @@ if ($baglan->query($ekle) === TRUE)
 }
 else 
 {
-   echo "Hata: " . $ekle. "<br>" . $baglan->error; -->
+   echo "Hata: " . $ekle. "<br>" . $baglan->error; 
 }
+-->
