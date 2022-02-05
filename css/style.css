@@ -37,7 +37,7 @@ nav a:visited {
     font-size: 16px;
 }
 #barner {
-    height: 90%;
+    height: 600px;
     background-image: url("../img/r2.jpg");
     background-size: cover;
     background-position: center;
