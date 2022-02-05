@@ -191,7 +191,7 @@ if(isset($_POST["isim"],$_POST["tel"],$_POST["mail"],$_POST["konu"],$_POST["mesa
   $mesaj=$_POST["mesaj"];
   $ekle="INSERT INTO iletisim (adsoyad,telefon,email,konu,mesaj) VALUES ('".$adsoyad."','".$email."','".$telefon."','".$konu."','".$mesaj."')";
 }
-<--!
+<!--
 if ($baglan->query($ekle) === TRUE) 
 {
     echo "<script> alert(`Mesajınız başarı ile gönderilmiştir.`) </script>";
